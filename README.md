@@ -5,6 +5,14 @@ Para o Projeto Integrador do 6º semestre, iremos dar continuidade a um projeto 
 
 # Backlog 📈
 
+| User stories | Description|
+| ----|---- |
+|US001|Como Usuário gostaria e enviar fotos das vagens colhidas. pois assim poderei receber informações quantitativas e qualitativas do plantio em determinada área|
+|US002|Como Usuário gostaria de consultar classificação de vagens e grãos dos meus campos de plantio pois assim posso conferir a classificação de plantio por área|
+|US003|Como Equipe gostaria que as imagens enviadas pelo usuário sejam processadas para que dados quantitativos sejam gerados pois assim posso retornar dados em determinada área para o usuário|
+
+
+
 
 
 
