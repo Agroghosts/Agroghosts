@@ -1,24 +1,52 @@
-# Agroghosts 🌱
-
-Para o Projeto Integrador do 6º semestre, iremos dar continuidade a um projeto já realizado anteriormente chamado eSoja. Essa aplicação tem por objetivo a criação de um aplicativo para ajudar produtores rurais sobre o controle de suas plantações como o informações estatísticas sobre a produção, plantio e previsão de tempo. Com isso, nosso aplicativo constará com algumas atividades adicionais para melhor aproveitamento do usuário, como a inserção da Inteligência Artificial (IA) para obter quantidade de grãos de vagem a partir de uma imagem, afim de ser mais ágil e fácil para controle do usuário.
-
-
-# Backlog 📈
-
-| User stories | Description|
-| ----|---- |
-|US001|Como Usuário gostaria e enviar fotos das vagens colhidas. pois assim poderei receber informações quantitativas e qualitativas do plantio em determinada área|
-|US002|Como Usuário gostaria de consultar classificação de vagens e grãos dos meus campos de plantio pois assim posso conferir a classificação de plantio por área|
-|US003|Como Equipe gostaria que as imagens enviadas pelo usuário sejam processadas para que dados quantitativos sejam gerados pois assim posso retornar dados em determinada área para o usuário|
-
-
-
-
-
-
-
-
+# Team Agroghost 🌱
 
 | <img src="https://avatars.githubusercontent.com/u/62018632?v=4" width="100"/> | <img src="https://media.discordapp.net/attachments/829118904005558292/982984166750691378/WhatsApp_Image_2022-04-26_at_12.52.16.jpeg?width=473&height=473" width="100"/>| <img src="https://media.discordapp.net/attachments/829118904005558292/982984491138166794/Enviar20220506_213849.jpg?width=473&height=473" width="100"/>| <img src="https://media.discordapp.net/attachments/829118904005558292/982984166008303647/223465422_565611791316450_2502397049837354049_n.jpg?width=473&height=473" width="100"/>|<img src="https://media.discordapp.net/attachments/829118904005558292/982984167035912242/WhatsApp_Image_2022-04-26_at_18.16.12.jpeg?width=472&height=473" width="100"/>|<img src="https://media.discordapp.net/attachments/829118904005558292/982984165584695307/WhatsApp_Image_2022-04-26_at_18.28.08.jpeg?width=472&height=473" width="100"/>|<img src="https://avatars.githubusercontent.com/u/67353070?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/64503782?v=4" width="100"/>|
 |---|---| ---| --- |---| ---|---|---|
 |[![Github Badge](https://img.shields.io/badge/Letícia-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan)|[![Github Badge](https://img.shields.io/badge/Brenno-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brennorichard)|[![Github Badge](https://img.shields.io/badge/Henrique-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique73)|[![Github Badge](https://img.shields.io/badge/Gabriel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabrieltg7)|[![Github Badge](https://img.shields.io/badge/Luiz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salitop)|[![Github Badge](https://img.shields.io/badge/Edryan-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edryan25)|[![Github Badge](https://img.shields.io/badge/Ana-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnafGodoy)|[![Github Badge](https://img.shields.io/badge/Levi-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levizoca)|
+
+# About eSoja 🌱
+
+This project consists of adding new features to an existing application called eSoja. The eSoja application aims to provide a service to rural producers regarding the control of their plantations, such as statistical information on production, planting and weather forecast from manually entered data. The new version of the application will have new features with the insertion of Artificial Intelligence (AI), allowing accurate and easy to use data.
+
+# Sumary
+
+|  | Topics |
+| ---|---- | 
+| 1 | <a href="#Total-Backlog">Total Backlog</a>|
+| 2 | <a href="#sprint-1---20220918">Sprint 1:sparkles: **New!**</a> | 
+| 3 | <a href="#Technologies">Technologies</a> |
+
+# [Total Backlog](https://docs.google.com/document/d/1KGt6vxyh9wKg358B0cJNcSXMkGuCCUdJo2MwmlL61Q4/edit?usp=drivesdk) 📈
+
+| |
+| ----|
+|Correction and adjustments of the Application used as base|
+|Prototype of new App screens and tools|
+|Adding a new design to the app|
+|Feeding the image bank for Neural Network training|
+|Neural Network training|
+|Functionality in the Automatic Processing App for Grain Counting|
+|Functionality in the Application that returns processed data regarding pods and grain|
+
+# Sprint 1 - 2022/09/18 🌱
+
+## What have we done?
+In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
+
+
+| Minimum Viable Product |
+| ----------- |
+| **Neural network modeling** :heavy_check_mark:|
+| **In-app image insertion functionality** :heavy_check_mark:|
+
+## Demo Video 
+
+# Technologies
+
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+[![forthebadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) 
+
+[![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
