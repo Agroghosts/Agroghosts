@@ -13,7 +13,7 @@ This project consists of adding new features to an existing application called e
 |  | Topics |
 | ---|---- | 
 | 1 | <a href="#Total-Backlog">Total Backlog</a>|
-| 2 | <a href="#sprint-1---20220918">Sprint 1:sparkles: **New!**</a> | 
+| 2 | <a href="#Sprint-1---20220918">Sprint 1:sparkles: **New!**</a> | 
 | 3 | <a href="#Technologies">Technologies</a> |
 
 # [Total Backlog](https://docs.google.com/document/d/1KGt6vxyh9wKg358B0cJNcSXMkGuCCUdJo2MwmlL61Q4/edit?usp=drivesdk) 📈
