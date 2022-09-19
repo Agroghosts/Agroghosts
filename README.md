@@ -41,6 +41,11 @@ In this first Sprint we focused on correcting and adjusting the base application
 
 ## Demo Video 
 
+
+
+https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
+
+
 # Technologies
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
