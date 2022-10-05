@@ -13,8 +13,9 @@ This project consists of adding new features to an existing application called e
 |  | Topics |
 | ---|---- | 
 | 1 | <a href="#total-backlog-">Total Backlog</a>|
-| 2 | <a href="#sprint-1---20220918-">Sprint 1:sparkles: **New!**</a> | 
-| 3 | <a href="#Technologies">Technologies</a> |
+| 2 | <a href="#sprint-1---20220918-">Sprint 1</a> | 
+| 3 | <a href="#sprint-2---20220918-">Sprint 2 :sparkles: **New!**</a> |
+| 4 | <a href="#Technologies">Technologies</a> |
 
 # [Total Backlog]([https://fatecspgov-my.sharepoint.com/personal/brenno_almeida_fatec_sp_gov_br/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST%2FProduct%20Backlog%2DAirGhost%2Emd&parent=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST]) 📈
 
@@ -28,7 +29,7 @@ This project consists of adding new features to an existing application called e
 |Functionality in the Automatic Processing App for Grain Counting|
 |Functionality in the Application that returns processed data regarding pods and grain|
 
-# Sprint 1 - 2022/09/18 🌱
+# Sprint 2 - 2022/10/09 🌱
 
 ## What have we done?
 In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
@@ -36,14 +37,20 @@ In this first Sprint we focused on correcting and adjusting the base application
 
 | Minimum Viable Product |
 | ----------- |
-| **Neural network modeling** :heavy_check_mark:|
 | **In-app image insertion functionality** :heavy_check_mark:|
 
 ## Demo Video 
 
-
-
 https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
+
+# Sprint 2 - 2022/09/18 🌱
+
+## What have we done?
+In this second Sprint we did the recognition of the soybean plant and the recognition of the pod using AI.
+
+| Minimum Viable Product |
+| ----------- |
+| **recognition of the pod** :heavy_check_mark:|
 
 
 # Technologies
