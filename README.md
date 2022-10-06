@@ -21,11 +21,10 @@ This project consists of adding new features to an existing application called e
 
 | |
 | ----|
-|Correction and adjustments of the Application used as base|
-|Prototype of new App screens and tools|
-|Adding a new design to the app|
-|Feeding the image bank for Neural Network training|
 |Neural Network training|
+|Image Annotation for processing|
+|Implementing AI in the application|
+|Functionality in the Application for uploading images by the user|
 |Functionality in the Automatic Processing App for Grain Counting|
 |Functionality in the Application that returns processed data regarding pods and grain|
 
