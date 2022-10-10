@@ -28,7 +28,7 @@ This project consists of adding new features to an existing application called e
 |Functionality in the Automatic Processing App for Grain Counting|
 |Functionality in the Application that returns processed data regarding pods and grain|
 
-# Sprint 2 - 2022/10/09 🌱
+# Sprint 1 - 2022/10/09 🌱
 
 ## What have we done?
 In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
@@ -51,6 +51,9 @@ In this second Sprint we did the recognition of the soybean plant and the recogn
 | ----------- |
 | **recognition of the pod** :heavy_check_mark:|
 
+## Demo Images
+
+<img src="https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png" width="400"/>
 
 # Technologies
 
