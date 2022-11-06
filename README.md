@@ -36,6 +36,11 @@ This project consists of adding new features to an existing application called e
         <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/1.png" width="400"/>
         <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/2.png" width="400"/>
 
+<p align= "justify"></p>
+<p align="justify">
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/3.png" width="400"/>
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/4.png" width="400"/>
+
 📖[Project Documentation](https://fatecspgov-my.sharepoint.com/:f:/g/personal/brenno_almeida_fatec_sp_gov_br/ErwJSQ5FozJHvck9fD3RDbUBCQt8eVTfyPMzrhL25Ij0hA?e=uPVqZD)
 
 # Sprint 1 - 2022/10/09 🌱
