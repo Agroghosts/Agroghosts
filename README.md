@@ -25,6 +25,7 @@ This project consists of adding new features to an existing application called e
 |Image Annotation for processing|
 |Implementing AI in the application|
 |Functionality in the Application for uploading images by the user|
+|Functionality for user instructions to take pictures|
 |Functionality in the Automatic Processing App for Grain Counting|
 |Functionality in the Application that returns processed data regarding pods and grain|
 
