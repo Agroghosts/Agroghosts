@@ -14,7 +14,8 @@ This project consists of adding new features to an existing application called e
 | ---|---- | 
 | 1 | <a href="#total-backlog-">Total Backlog</a>|
 | 2 | <a href="#sprint-1---20220918-">Sprint 1</a> | 
-| 3 | <a href="#sprint-2---20220918-">Sprint 2 :sparkles: **New!**</a> |
+| 3 | <a href="#sprint-2---20220918-">Sprint 2</a> |
+| 4 | <a href="#sprint-3---20220918-">Sprint 3 :sparkles: **New!**</a>|
 | 4 | <a href="#Technologies">Technologies</a> |
 
 # [Total Backlog]([https://fatecspgov-my.sharepoint.com/personal/brenno_almeida_fatec_sp_gov_br/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST%2FProduct%20Backlog%2DAirGhost%2Emd&parent=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST]) 📈
@@ -43,7 +44,7 @@ This project consists of adding new features to an existing application called e
 
 📖[Project Documentation](https://fatecspgov-my.sharepoint.com/:f:/g/personal/brenno_almeida_fatec_sp_gov_br/ErwJSQ5FozJHvck9fD3RDbUBCQt8eVTfyPMzrhL25Ij0hA?e=uPVqZD)
 
-# Sprint 1 - 2022/10/09 🌱
+# Sprint 1 - 2022/09/18 🌱
 
 ## What have we done?
 In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
@@ -57,7 +58,7 @@ In this first Sprint we focused on correcting and adjusting the base application
 
 https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
 
-# Sprint 2 - 2022/09/18 🌱
+# Sprint 2 - 2022/10/09 🌱
 
 ## What have we done?
 In this second Sprint we did the recognition of the soybean plant and the recognition of the pod using AI.
@@ -69,6 +70,19 @@ In this second Sprint we did the recognition of the soybean plant and the recogn
 ## Demo Images
 
 <img src="https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png" width="400"/>
+
+# Sprint 3 - 2022/11/06 🌱
+
+## What have we done?
+In this third Sprint we did the Implementing AI in the application.
+
+| Minimum Viable Product |
+| ----------- |
+| **Implementing AI in the application** :heavy_check_mark:|
+
+## Demo Images
+
+
 
 # Technologies
 
