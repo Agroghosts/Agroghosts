@@ -82,6 +82,7 @@ In this third Sprint we did the Implementing AI in the application.
 
 ## Demo Images
 
+<img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="400"/>
 
 
 # Technologies
