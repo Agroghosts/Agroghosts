@@ -47,8 +47,12 @@ This project consists of adding new features to an existing application called e
 
 
 <details>
-    <summary># Sprint 1 - 2022/09/18 🌱</summary>
-## What have we done?
+    <summary>Sprint 1 - 2022/09/18 🌱</summary>
+
+
+​    
+
+<h2>What have we done?</h2>
 
 
 In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
@@ -66,7 +70,7 @@ https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-
 
 
 <details>
-    <summary># Sprint 2 - 2022/10/09 🌱</summary>
+    <summary>Sprint 2 - 2022/10/09 🌱</summary>
 
 
 ## What have we done?
@@ -85,9 +89,7 @@ In this second Sprint we did the recognition of the soybean plant and the recogn
 
 
 <details>
-    <summary># Sprint 3 - 2022/11/06 🌱</summary>
-
-
+    <summary>Sprint 3 - 2022/11/06 🌱</summary>
 ## What have we done?
 
 In this third Sprint we did the Implementing AI in the application.
