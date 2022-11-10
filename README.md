@@ -44,45 +44,64 @@ This project consists of adding new features to an existing application called e
 
 📖[Project Documentation](https://fatecspgov-my.sharepoint.com/:f:/g/personal/brenno_almeida_fatec_sp_gov_br/ErwJSQ5FozJHvck9fD3RDbUBCQt8eVTfyPMzrhL25Ij0hA?e=uPVqZD)
 
-# Sprint 1 - 2022/09/18 🌱
 
+
+<details>
+    <summary># Sprint 1 - 2022/09/18 🌱</summary>
 ## What have we done?
+
+
 In this first Sprint we focused on correcting and adjusting the base application (eSoja) so that we can build on that. We define the technologies and carry out tasks aimed at studying them. We have added the functionality to insert crop images into the Application for image processing. We have modeled the neural network so that we can process soybean images.
 
 
-| Minimum Viable Product |
-| ----------- |
-| **In-app image insertion functionality** :heavy_check_mark:|
+| Minimum Viable Product                                      |
+| ----------------------------------------------------------- |
+| **In-app image insertion functionality** :heavy_check_mark: |
 
 ## Demo Video 
 
 https://user-images.githubusercontent.com/61993394/190942778-c040a491-53b3-4479-9574-6aef9797cec5.mp4
+</details>
 
-# Sprint 2 - 2022/10/09 🌱
+
+
+<details>
+    <summary># Sprint 2 - 2022/10/09 🌱</summary>
+
 
 ## What have we done?
+
 In this second Sprint we did the recognition of the soybean plant and the recognition of the pod using AI.
 
-| Minimum Viable Product |
-| ----------- |
-| **recognition of the pod** :heavy_check_mark:|
+| Minimum Viable Product                        |
+| --------------------------------------------- |
+| **recognition of the pod** :heavy_check_mark: |
 
 ## Demo Images
 
 <img src="https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png" width="400"/>
+</details>
 
-# Sprint 3 - 2022/11/06 🌱
+
+
+<details>
+    <summary># Sprint 3 - 2022/11/06 🌱</summary>
+
 
 ## What have we done?
+
 In this third Sprint we did the Implementing AI in the application.
 
-| Minimum Viable Product |
-| ----------- |
-| **Implementing AI in the application** :heavy_check_mark:|
+| Minimum Viable Product                                    |
+| --------------------------------------------------------- |
+| **Implementing AI in the application** :heavy_check_mark: |
 
 ## Demo Images
 
 <img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="400"/>
+</details>
+
+
 
 
 # Technologies
