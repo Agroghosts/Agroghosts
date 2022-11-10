@@ -8,12 +8,12 @@
 
 This project consists of adding new features to an existing application called eSoja. The eSoja application aims to provide a service to rural producers regarding the control of their plantations, such as statistical information on production, planting and weather forecast from manually entered data. The new version of the application will have new features with the insertion of Artificial Intelligence (AI), allowing accurate and easy to use data.
 
-# Sumary
+# Summary
 
 |  | Topics |
 | ---|---- |
 | 1 | <a href="#total-backlog-">Total Backlog</a>|
-| 3 | <a href="# Sprints">Sprints</a> |
+| 3 | <a href="#Project-Sprints">Project Sprints</a> |
 | 4 | <a href="#Technologies">Technologies</a> |
 
 # [Total Backlog]([https://fatecspgov-my.sharepoint.com/personal/brenno_almeida_fatec_sp_gov_br/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST%2FProduct%20Backlog%2DAirGhost%2Emd&parent=%2Fpersonal%2Fbrenno%5Falmeida%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FAPI%2D2022%2D2%2DVISIONA%2DAIRGHOST]) 📈
@@ -44,7 +44,7 @@ This project consists of adding new features to an existing application called e
 
 
 
-# Sprints :racing_car:
+# Project Sprints :racing_car:
 
 <details>
     <summary>Sprint 1 - 2022/09/18 🌱</summary>
