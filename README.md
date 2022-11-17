@@ -20,8 +20,6 @@ This project consists of adding new features to an existing application called e
 
 | |
 | ----|
-|Neural Network training|
-|Image Annotation for processing|
 |Implementing AI in the application|
 |Functionality in the Application for uploading images by the user|
 |Functionality for user instructions to take pictures|
