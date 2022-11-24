@@ -20,7 +20,7 @@ This project consists of adding new features to an existing application called e
 
 | |
 | ----|
-|Implementing AI in the application|
+|Implementing AI in the application for image processing|
 |Functionality in the Application for uploading images by the user|
 |Functionality for user instructions to take pictures|
 |Functionality in the Application for plant recognition|
