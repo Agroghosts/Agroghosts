@@ -30,13 +30,13 @@ This project consists of adding new features to an existing application called e
 
 <p align= "justify">Sprints timeline</p>
 <p align="justify">
-        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/1.png" width="400"/>
-        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/2.png" width="400"/>
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/sp1.png" width="400"/>
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/sp2.png" width="400"/>
 
 <p align= "justify"></p>
 <p align="justify">
-        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/3.png" width="400"/>
-        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/readassets/4.png" width="400"/>
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/sp3.png" width="400"/>
+        <img src="https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/sp4.png" width="400"/>
 
 📖[Project Documentation](https://fatecspgov-my.sharepoint.com/:f:/g/personal/brenno_almeida_fatec_sp_gov_br/ErwJSQ5FozJHvck9fD3RDbUBCQt8eVTfyPMzrhL25Ij0hA?e=uPVqZD)
 
@@ -100,6 +100,23 @@ In this third Sprint we did the Implementing AI in the application.
 ## Demo Images
 
 <img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="400"/>
+</details>
+
+<details>
+    <summary>Sprint 4 - 2022/11/27 🌱</summary>
+
+## What have we done?
+
+In this fourth Sprint we did the Functionality in the Automatic Processing App for Grain Counting.
+
+| Minimum Viable Product                                    |
+| --------------------------------------------------------- |
+| **Functionality in the Automatic Processing App for Grain Counting** :heavy_check_mark: |
+
+## Demo Images
+
+![graosesojas](https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/graosesojas.gif)
+
 </details>
 
 
